@@ -1,0 +1,6 @@
+.navbar.is-dark{
+  background-color: #262a37;
+}
+.navbar-end>.navbar-item {
+    color: #dc6180;
+}
